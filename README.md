@@ -6,7 +6,7 @@
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
 
-**Informatics & Data Engineer | Business Analyst | AI & Machine Learning**  
+**Informatics & Data Engineer | Business Analyst |Databricks Engineer | AI & Machine Learning**  
 **Co-Founder @ IntegraMindAI**
 
 I work at the intersection of **data engineering, analytics, and AI**, helping businesses transform data into practical, scalable solutions.
@@ -51,7 +51,7 @@ Power BI · Matplotlib · Seaborn
 ---
 
 ### **Data Engineering & Platforms**
-SQL · Google BigQuery · Firebase · MongoDB · MySQL · Databricks (learning)  
+SQL · Google BigQuery · Firebase · MongoDB · MySQL · Databricks  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
