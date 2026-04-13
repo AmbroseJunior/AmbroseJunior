@@ -67,6 +67,6 @@ Salesforce CRM (Certified User)
 ## 📬 Connect with Me
 📧 Email: [nadis2u@gmail.com](mailto:nadis2u@gmail.com)  
 💼 LinkedIn: [Nnamdi Ambrose Junior Eze](https://www.linkedin.com/in/nnamdi-ambrose-junior-eze-045094150/)
-[![DataBricks Video Presentation](https://img.youtube.com/vi/U1aLCdWapbU/maxresdefault.jpg)]
+[![DataBricks Video Presentation](https://img.youtube.com/vi/U1aLCdWapbU/maxresdefault.jpg)](https://youtu.be/U1aLCdWapbU)
 
 
