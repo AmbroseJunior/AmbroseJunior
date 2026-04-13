@@ -7,7 +7,7 @@
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
 
 **Informatics & Data Engineer | Business Analyst |Databricks Engineer | AI & Machine Learning**  
-**Co-Founder @ IntegraMindAI**
+**Strategic Lead Engineer @ IntegraMindAI**
 
 I work at the intersection of **data engineering, analytics, and AI**, helping businesses transform data into practical, scalable solutions.
 
