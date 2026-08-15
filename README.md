@@ -6,15 +6,7 @@
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
 
-**Informatics & Data Engineer | Business Analyst |Databricks Engineer | AI & Machine Learning**  
-**Strategic Lead Engineer @ IntegraMindAI**
-
-I work at the intersection of **data engineering, analytics, and AI**, helping businesses transform data into practical, scalable solutions.
-
-As a **Co-Founder at IntegraMindAI**, I support organizations in integrating **AI automation and data intelligence** into everyday operations to improve efficiency, reduce complexity, and enable better decision-making. I continuously learn and work with modern tools across the data and AI ecosystem.
-
-This GitHub reflects my work, learning process, and growth — built through real projects and hands-on problem solving.
-
+**Software / Data Engineer 
 ---
 
 ## 🛠️ Core Skills & Expertise
