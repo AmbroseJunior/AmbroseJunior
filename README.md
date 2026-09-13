@@ -1,64 +1,75 @@
 # Nnamdi Ambrose Junior Eze
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+### **Data & AI Engineer**
 
-**Software / Data Engineer 
----
-
-## 🛠️ Core Skills & Expertise
-
-### **Data & Analytics**
-Python · Pandas · NumPy · EDA · Feature Engineering · Statistics  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
----
-
-### **Process Mining & Automation**
-Apromore · n8n · API Integrations · Webhooks · No-code & Low-code Automation · BPMN Tools  
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
-![API](https://img.shields.io/badge/API%20Integrations-005571?style=flat)
-![Webhooks](https://img.shields.io/badge/Webhooks-6A1B9A?style=flat)
-![Process Mining](https://img.shields.io/badge/Process%20Mining-4B8BBE?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8A?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ---
 
-### **Machine Learning**
-Scikit-learn · Google Cloud AI Platform · R  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+## 🛠️ Technical Stack & Core Expertise
+
+### 🤖 **AI & Local LLM Workflows**
+* **Local Inference & Agentic Systems:** Ollama · Local LLM Deployment · Autonomous Agents · Hermes Function-Calling
+* **Models:** Gemma 4 (e4b) · Open-Source LLMs
+* **Platforms & ML Tools:** Google Cloud AI Platform · Scikit-learn
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Google Cloud AI](https://img.shields.io/badge/Google_Cloud_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
 
-### **Data Visualization & BI**
-Power BI · Matplotlib · Seaborn  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C5AA0?style=flat)
+### ⚙️ **Data Engineering, Distributed Systems & Orchestration**
+* **Data Processing & Analytics:** PySpark · Apache Hadoop · SQL · Python · R
+* **Data Transformation & Modeling:** dbt (data build tool)
+* **Streaming & Messaging:** Apache Kafka · API Integrations · Webhooks
+* **Orchestration & Process Automation:** Apache Airflow · n8n · Low-Code Automation · Process Mining (Apromore)
+* **Platforms & Warehousing:** Databricks · Snowflake · Google BigQuery · MySQL · MongoDB · Firebase
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
 
-### **Data Engineering & Platforms**
-SQL · Google BigQuery · Firebase · MongoDB · MySQL · Databricks  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
+### 🐳 **DevOps, Infrastructure & Monitoring**
+* **Infrastructure as Code (IaC):** Terraform
+* **Containerization & Orchestration:** Docker · Kubernetes
+* **Monitoring & Metrics:** Prometheus
+* **Version Control & CI/CD:** GitHub · Git Workflows
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### **CRM & Business Systems**
-Salesforce CRM (Certified User)
+### 📊 **Data Visualization & Business Systems**
+* **BI & Analytics:** Power BI
+* **CRM Solutions:** Salesforce CRM (Certified User)
 
----
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
 ## 📬 Connect with Me
-📧 Email: [nadis2u@gmail.com](mailto:nadis2u@gmail.com)  
-💼 LinkedIn: [Nnamdi Ambrose Junior Eze](https://www.linkedin.com/in/nnamdi-ambrose-junior-eze-045094150/)
-[![DataBricks Video Presentation](https://img.youtube.com/vi/U1aLCdWapbU/maxresdefault.jpg)](https://youtu.be/U1aLCdWapbU)
 
-
+* 📧 **Email:** [nadis2u@gmail.com](mailto:nadis2u@gmail.com)
+* 💼 **LinkedIn:** [Nnamdi Ambrose Junior Eze](https://www.linkedin.com/in/nnamdi-ambrose-junior-eze-045094150/)
+* 🐙 **GitHub:** [https://github.com/AmbroseJunior](https://github.com/)
