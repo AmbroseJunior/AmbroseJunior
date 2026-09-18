@@ -1,7 +1,5 @@
 # Nnamdi Ambrose Junior Eze
 
-### **Data & AI Engineer**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8A?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
